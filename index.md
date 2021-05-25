@@ -1,15 +1,39 @@
-## Sample Processing Guide
+# Sample Processing Guide
+Here you will learn all things _Sample Processing_
 
-You can use the [editor on GitHub](https://github.com/claireschacht/Sample-Processing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Step-by-Step with Platforms:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Section 1. [Airtable](https://airtable.com/tblFKaFLPSzwDozI8/viwOxMzXv1wNzBwJx?blocks=hide)
 
-### Markdown
+ 1. Sample Intake
+ 2. Sample Storage
+ 3. Sample Processing
+ 4. Sample Return
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Section 2. [OrcaScan](https://cloud.orcascan.com/)
 
-```markdown
-Syntax highlighted code block
+1. Scan in sample
+2. Log-in and Log-out samples 
+3. Fill out requirements
+4. Use with Experiments 
+
+#### Section 3. [Benchling](https://benchling.com/s/etr-xsOW27oSKdvz1QkVm9Qe)
+
+1. Projects
+2. Experiment Specific
+3. Protocol Tutorial 
+4. Updating Airtable
+
+> note
+
+
+
+[Link](url) and ![Image](src)
+```
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+
 
 # Header 1
 ## Header 2
