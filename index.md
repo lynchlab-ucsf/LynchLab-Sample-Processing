@@ -1,5 +1,7 @@
 
-Here you will learn all things _Sample Processing_
+By Claire S Schachtschneider
+
+
 
 ### Step-by-Step with Platforms:
 
