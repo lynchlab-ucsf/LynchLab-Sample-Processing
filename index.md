@@ -1,4 +1,4 @@
-# Sample Processing Guide
+
 Here you will learn all things _Sample Processing_
 
 ### Step-by-Step with Platforms:
