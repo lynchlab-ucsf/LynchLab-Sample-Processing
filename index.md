@@ -1,6 +1,7 @@
 Created By Claire Schachtschneider May 2021
 
 ![image](https://github.com/claireschacht/Sample-Processing/blob/0de14b601e51359b2ff592f897dfd6081a9544ea/Lynch%20Lab%20Projects%20Workflow%20.png)
+
 ### Step-by-Step with Platforms:
 
 
