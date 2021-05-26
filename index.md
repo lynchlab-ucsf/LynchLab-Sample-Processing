@@ -1,6 +1,6 @@
 Created By Claire Schachtschneider May 2021
 
-![workflow](/Lynch Lab Projects Workflow .png)
+![image](/Lynch Lab Projects Workflow .png)
 ### Step-by-Step with Platforms:
 
 
