@@ -1,7 +1,4 @@
 
-By Claire S Schachtschneider
-
-
 
 ### Step-by-Step with Platforms:
 
