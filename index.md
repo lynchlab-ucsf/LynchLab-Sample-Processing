@@ -6,14 +6,14 @@ Claire Schachtschneider September 2021
 #### 1.	 <a href="https://airtable.com/tblYN9QoFLAAV7vpo" title="Airtable:">Airtable:</a>
 ##### a.	Description and Intro
 ##### b.	Visual Diagram
-##### c.	Projects and Sample Intake
+##### c.	Projects and Sample Check-in/Check-out
 ##### d.	Progress Tracker
 
 #### 2.	<a href="https://benchling.com/signin" title="Airtable:">Benchling:</a>
 ##### a.	Description and Intro
 ##### b.	Visual Diagram
 ##### c.	Account Navigation
-##### d.	Entries and use 
+##### d.	Entries and Use 
 
 #### 3.	<a href="https://us.elabjournal.com/login/" title="Airtable:">eLabJournal:</a>
 ##### a.	Description and Intro 
@@ -22,7 +22,7 @@ Claire Schachtschneider September 2021
 ##### d.	Printing Labels
 ##### e.	Freezer Catalog 
 
-#### A.	Introduction to Sample Intake
+#### A.	Introduction to Sample Intake or "Check-in"
 For any sample intake done in the Lynch Lab, you will need to follow these guidelines:
 * Whoever receives the shipment from the carrier service is responsible for the intake of those samples (unless determined otherwise).
 * Unpack the box by keeping samples on dry ice and double-check that all vials match the manifest included in shipment -- ensure no damage.
