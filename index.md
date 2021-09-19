@@ -1,5 +1,5 @@
 # Platforms Used by Lynch Lab
-Claire Schachtschneider May 2021
+Claire Schachtschneider September 2021
 
 ### Content:
 #### A.	Introduction to Sample Intake
@@ -118,5 +118,5 @@ If you need to print sample vial labels for any reason you will need to:
 4.	Click the orange “+Add” button and select “add rack” or “add box”
 5.	Input the info required and make sure to label by: Project, Sample Type, Experiment Step, Date, and your initials!!
 
-##### Last edited by Claire S in July 2021
+##### Last edited by Claire S 09/19/21
 
