@@ -79,7 +79,7 @@ Lynch Lab Projects breaks into a variety of files for each project. You can navi
 ElabJoural is our sample intake and freezer inventory platform. Here you sample intake, print labels, and assign a permanent home for samples logged. It is the interface between Airtable and organization of samples. 
 
 #### b.	Visual Diagram
-![image](https://user-images.githubusercontent.com/82829415/125141882-17f75480-e0cb-11eb-9989-f0339595a1bd.png)
+![image](https://github.com/claireschacht/Sample-Processing/blob/068ebf1e41f6697bf356db9dbf20237381eb0a32/Elabjournal%20diagram.png)
 
 #### c.	Sample intake
 Prior to Sample Intake: 
