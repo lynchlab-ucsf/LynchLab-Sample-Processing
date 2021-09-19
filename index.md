@@ -2,7 +2,7 @@
 Claire Schachtschneider 2021
 
 ### Content:
-#### Z.	Introduction to Sample Intake
+#### A.	Introduction to Sample Intake
 #### 1.	 <a href="https://airtable.com/tblYN9QoFLAAV7vpo" title="Airtable:">Airtable:</a>
 ##### a.	Description and Intro
 ##### b.	Visual Diagram
@@ -22,7 +22,7 @@ Claire Schachtschneider 2021
 ##### d.	Printing Labels
 ##### e.	Freezer Catalog 
 
-#### Z.	Introduction to Sample Intake or "Check-in"
+#### A.	Introduction to Sample Intake or "Check-in"
 For any sample intake done in the Lynch Lab, you will need to follow these guidelines:
 * Whoever receives the shipment from the carrier service is responsible for the intake of those samples (unless determined otherwise).
 * Unpack the box and keeping samples on dry ice to double-check that all vials match the manifest included in shipment -- ensure no damage.
