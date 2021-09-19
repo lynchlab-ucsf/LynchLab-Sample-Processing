@@ -25,9 +25,9 @@ Claire Schachtschneider September 2021
 #### A.	Introduction to Sample Intake or "Check-in"
 For any sample intake done in the Lynch Lab, you will need to follow these guidelines:
 * Whoever receives the shipment from the carrier service is responsible for the intake of those samples (unless determined otherwise).
-* Unpack the box by keeping samples on dry ice and double-check that all vials match the manifest included in shipment -- ensure no damage.
+* Unpack the box and keeping samples on dry ice to double-check that all vials match the manifest included in shipment -- ensure no damage.
 * Complete intake with eLabJournal and Lynch Lab Airtable. Instructions listed below in 1c and 3c.
-* Transfer samples into new freezer storage box and create a box label with the Dymo Printer. Ex) Project Name, Sample Type, Date, Initials.
+* Transfer samples into new freezer storage box and create a box label with the Dymo Printer at Lab Manager's Desk. Ex) Project Name, Sample Type, Date, Initials.
 * Store in designated project rack within -80 freezer (can be located on eLabJournal).
 
 ### 1.	Airtable:
