@@ -24,34 +24,36 @@ Claire Schachtschneider May 2021
 
 #### A.	Introduction to Sample Intake
 For any sample intake done in the Lynch Lab, you will need to follow these guidelines:
-* Whoever receives the shipment is responsible for the intake of those samples (unless determined otherwise).
+* Whoever receives the shipment from the carrier service is responsible for the intake of those samples (unless determined otherwise).
 * Unpack the box by keeping samples on dry ice and double-check that all vials match the manifest included in shipment -- ensure no damage.
 * Complete intake with eLabJournal and Lynch Lab Airtable. Instructions listed below in 1c and 3c.
-* Transfer samples into new freezer storage box and create a box label. Ex) Project Name, Sample Type, Date, Initials.
+* Transfer samples into new freezer storage box and create a box label with the Dymo Printer. Ex) Project Name, Sample Type, Date, Initials.
 * Store in designated project rack within -80 freezer (can be located on eLabJournal).
 
 ### 1.	Airtable:
 #### a.	Description and Intro 
-Airtable is used for a variety of tasks to keep track of projects, protocols, and sample intake. 
+Airtable is used for a variety of tasks to keep track of projects, protocols, and sample check-in/check-out. 
 
-Navigate to the Lynch Lab Airtable by logging in with the universal login credentials supplied in the Lab Etiquette Document. You will see a variety of boxes that are accessible depending on your needs. The most common used will be Lynch Lab Airtable, Lynch Lab Microbial Strain Collection, Lab Meeting Schedule, and Protocols. 
-The Lynch Lab Airtable box is for projects, sample intake (including eLabJournal), Progress Tracker, and Freezer Catalog (simplified version of eLabJournal for quick reference).
+Navigate to the Lynch Lab Airtable by logging in with the lab login credentials supplied in the Lab Etiquette Document. You will see a variety of bases that are accessible depending on your needs. The most common bases used will be Lynch Lab Airtable, Lynch Lab Microbial Strain Collection, Lab Meeting Schedule, and Protocols. 
+The Lynch Lab Airtable base is for projects, sample check-in/check-out (including eLabJournal), progress tracking, and any study relevant documents. 
 
 #### b. Visual Diagram 
 ![image](https://user-images.githubusercontent.com/82829415/125141112-f2694b80-e0c8-11eb-8bbd-5d8703789b8e.png)
 
 #### c.	Projects and Sample Intake:
-To add a new Project and samples to the Lynch Lab Airtable, you will need to follow the steps listed here:![image](https://user-images.githubusercontent.com/82829415/125141194-293f6180-e0c9-11eb-9929-333f34cbc3bc.png)
+To add a new project and samples to the Lynch Lab Airtable, you will need to follow the steps listed here:![image](https://user-images.githubusercontent.com/82829415/125141194-293f6180-e0c9-11eb-9929-333f34cbc3bc.png)
 * 1.	** After intake with eLabJournal! ** 
-* 2.	Navigate to sample intake tab and fill in the fields provided
+* 2.	Navigate to Sample Check-in/Check-out tab and fill in the fields provided
 * 3.	Navigate to Projects tab and add a new project by scrolling down to the last entry and then filling in a new row of fields according to the column name.
+* 4.  Always add date samples are returned to collaborators by filling in "sample return date" and supplying any tracking information or email correspondence.
 
-#### d. Progress Tracker
-Progress Tracker is used to view the current step of each project and samples. To make new entry:
-*	Enter info into fields (Project, Date Started, Processed by, Samples Processed, Processing Type, Current Step in Pipeline, Protocol log (link to Benchling experiment entry) 
+#### d. Progress Tracker and Results
+Progress Tracker and Rrsults tabs are used to view the current step of each project and samples. To make a new entry in Progress Tracker:
+*	Enter info into fields (Processing ID, Project Name, Processed by, Date of Experiment, Processing Type, Current Step in Pipeline, Protocol log (link to Benchling experiment entry), Notes of changes, Mapping File, and Current Freezer Location)
 * A new entry should be created with every new batch of samples processed* 
 ##### Keeping up-to-date:
-* Update Current Step in Pipeline, add another link for Protocol Log, add Mapping file when necessary,  and New Freezer Location when moved around from -80 to -20. 
+* Update Current Step in Pipeline, add another additional links for Protocol Log, add Mapping file when necessary, and New Freezer Location when moved around from -80 to -20. 
+* Results will automatically populate. This tab will mainly be used by Katie and Sue to view current project progress. 
 
 ### 2.	Benchling:
 #### a.	Description and Intro 
