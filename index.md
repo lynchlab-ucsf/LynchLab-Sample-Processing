@@ -1,5 +1,5 @@
 # Platforms Used by Lynch Lab
-Claire Schachtschneider September 2021
+Claire Schachtschneider 2021
 
 ### Content:
 #### A.	Introduction to Sample Intake
