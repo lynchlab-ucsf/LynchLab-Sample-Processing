@@ -61,7 +61,7 @@ Benchling is used as an electronic lab notebook. Here you will input your experi
 
 Lynch Lab Projects breaks into a variety of files for each project. You can navigate through the directories according to: the project, experiment type, and personal entries + Sample type.  Personal entries will house the specific electronic lab notebook for your experiments performed. 
 #### b.	Visual Diagram
-![image](https://user-images.githubusercontent.com/82829415/125141566-432d7400-e0ca-11eb-990c-2d168139b2b8.png)
+![image](https://github.com/claireschacht/Sample-Processing/blob/4a5269a356b444024473183443ec691976c50545/Benchling%20diagram.png)
 #### c.	Account Navigation
 *	Login to Benchling with your personal credentials. An invitation will be send to you by the admin of our group. Once logged in you will be able to go through various projects and experiments. All personal experiments are on read-only for other lab members. Only you will have the ability to edit your own documents.
 
