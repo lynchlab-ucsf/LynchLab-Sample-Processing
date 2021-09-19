@@ -38,7 +38,7 @@ Navigate to the Lynch Lab Airtable by logging in with the lab login credentials 
 The Lynch Lab Airtable base is for projects, sample check-in/check-out (including eLabJournal), progress tracking, and any study relevant documents. 
 
 #### b. Visual Diagram 
-![image](https://user-images.githubusercontent.com/82829415/125141112-f2694b80-e0c8-11eb-8bbd-5d8703789b8e.png)
+![image](Airtable Layout new.png)
 
 #### c.	Projects and Sample Intake:
 To add a new project and samples to the Lynch Lab Airtable, you will need to follow the steps listed here:![image](https://user-images.githubusercontent.com/82829415/125141194-293f6180-e0c9-11eb-9929-333f34cbc3bc.png)
