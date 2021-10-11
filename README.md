@@ -38,7 +38,7 @@ Navigate to the Lynch Lab Airtable by logging in with the lab login credentials 
 The Lynch Lab Airtable base is for projects, sample check-in/check-out (including eLabJournal), progress tracking, and any study relevant documents. 
 
 #### b. Visual Diagram 
-<img src="https://github.com/lynchlab-ucsf/LynchLab-Sample-Processing/blob/gh-pages/Airtable%20Layout%20new.png">
+<img src="docs/assets/Airtable Layout new.png">
 
 #### c.	Projects and Sample Intake:
 To add a new project and samples to the Lynch Lab Airtable, you will need to follow the steps listed here:
@@ -62,7 +62,7 @@ Benchling is used as an electronic lab notebook. Here you will input your experi
 Lynch Lab Projects breaks into a variety of files for each project. You can navigate through the directories according to: the project, experiment type, and personal entries + Sample type.  Personal entries will house the specific electronic lab notebook for your experiments performed. 
 
 #### b.	Visual Diagram
-<img src="https://github.com/lynchlab-ucsf/LynchLab-Sample-Processing/blob/gh-pages/Benchling%20diagram.png">
+<img src="docs/assets/Benchling diagram.png">
 
 #### c.	Account Navigation
 *	Login to Benchling with your personal credentials. An invitation will be send to you by the admin of our group. Once logged in you will be able to go through various projects and experiments. All personal experiments are on read-only for other lab members. Only you will have the ability to edit your own documents.
@@ -81,7 +81,7 @@ Lynch Lab Projects breaks into a variety of files for each project. You can navi
 ElabJoural is our sample intake and freezer inventory platform. Here you sample intake, print labels, and assign a permanent home for samples logged. It is the interface between Airtable and organization of samples. 
 
 #### b.	Visual Diagram
-<img src="https://github.com/lynchlab-ucsf/LynchLab-Sample-Processing/blob/gh-pages/Elabjournal%20diagram.png">
+<img src="docs/assets/Elabjournal diagram.png">
 
 #### c.	Sample intake
 Prior to Sample Intake: 
