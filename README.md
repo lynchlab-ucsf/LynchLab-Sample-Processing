@@ -9,7 +9,7 @@ Claire Schachtschneider 2021
 
 <a href="https://us.elabjournal.com/login/" title="Airtable:">eLabJournal</a>
 
-## Introduction to Sample Intake (click to go to section)
+## Introduction to Sample Intake (click link to go to section)
 
 [AirTable](#airtable)
 
@@ -55,9 +55,9 @@ For any sample intake done in the Lynch Lab, you will need to follow these guide
 * Transfer samples into new freezer storage box and create a box label with the Dymo Printer at Lab Manager's Desk. Ex) Project Name, Sample Type, Date, Initials.
 * Store in designated project rack within -80 freezer (can be located on eLabJournal).
 
-1.	Airtable <a name="airtable"></a>
+### 1. Airtable <a name="airtable"></a>
 
-#### a.	Description and Intro 
+#### a. Description and Intro 
 
 <a href="https://airtable.com/tblYN9QoFLAAV7vpo" title="Airtable:">AirTable</a> is used for a variety of tasks to keep track of projects, protocols, and sample check-in/check-out. 
 
@@ -86,7 +86,7 @@ Progress Tracker and Rrsults tabs are used to view the current step of each proj
 * Update Current Step in Pipeline, add another additional links for Protocol Log, add Mapping file when necessary, and New Freezer Location when moved around from -80 to -20. 
 * Results will automatically populate. This tab will mainly be used by Katie and Sue to view current project progress. 
 
-### 2.	Benchling <a name="benchling"></a>:
+### 2. Benchling <a name="benchling"></a>:
 
 #### a.	Description and Intro
 
@@ -112,7 +112,7 @@ Lynch Lab Projects breaks into a variety of files for each project. You can navi
 *	Fill in the “Notes” tab with your experiment notes and information necessary. It is very important to you keep the log of specific samples used by filling in the template’s fields. 
 *	This can now only be edited by you but can be viewed by any user in our group.
 
-### 3.	Elabjournal <a name="elab"></a>:
+### 3. Elabjournal <a name="elab"></a>:
 
 #### a.	Description and Intro 
 
