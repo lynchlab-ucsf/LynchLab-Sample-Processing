@@ -71,7 +71,7 @@ The Lynch Lab Airtable base is for projects, sample check-in/check-out (includin
 #### c.	Projects and Sample Intake:
 
 To add a new project and samples to the Lynch Lab Airtable, you will need to follow the steps listed here:
-* 1.	** After intake with eLabJournal! ** 
+* 1.	Login to Airtable with lab login credentials
 * 2.	Navigate to Sample Check-in/Check-out tab and fill in the fields provided
 * 3.	Navigate to Projects tab and add a new project by scrolling down to the last entry and then filling in a new row of fields according to the column name.
 * 4.  Always add date samples are returned to collaborators by filling in "sample return date" and supplying any tracking information or email correspondence.
