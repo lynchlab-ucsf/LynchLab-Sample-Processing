@@ -61,8 +61,8 @@ For any sample intake done in the Lynch Lab, you will need to follow these guide
 
 <a href="https://airtable.com/tblYN9QoFLAAV7vpo" title="Airtable:">AirTable</a> is used for a variety of tasks to keep track of projects, protocols, and sample check-in/check-out. 
 
-Navigate to the Lynch Lab Airtable by logging in with the lab login credentials supplied in the Lab Etiquette Document. You will see a variety of bases that are accessible depending on your needs. The most common bases used will be Lynch Lab Airtable, Lynch Lab Microbial Strain Collection, Lab Meeting Schedule, and Protocols. 
-The Lynch Lab Airtable base is for projects, sample check-in/check-out (including eLabJournal), progress tracking, and any study relevant documents. 
+Navigate to the Lynch Lab Airtable by logging in with the lab login credentials supplied in the Lab Etiquette Document. You will see a variety of bases that are accessible depending on your needs. The most common bases used will be Project-specific Bases, Lynch Lab Airtable, Lynch Lab Microbial Strain Collection, Lab Meeting Schedule, and Protocols. 
+The Lynch Lab Airtable base and Project-specific bases are for sample check-in/check-out (including eLabJournal), experiment progress tracking, and any study relevant documents. 
 
 #### b. Visual Diagram 
 
@@ -72,31 +72,31 @@ The Lynch Lab Airtable base is for projects, sample check-in/check-out (includin
 
 To add a new project and samples to the Lynch Lab Airtable, you will need to follow the steps listed here:
 * 1.	** After intake with eLabJournal! ** 
-* 2.	Navigate to Sample Check-in/Check-out tab and fill in the fields provided
-* 3.	Navigate to Projects tab and add a new project by scrolling down to the last entry and then filling in a new row of fields according to the column name.
+* 2.	Navigate to your project-specific base and fill in fields under "Sample Check-in/Check-out" tab
+* 3.	Navigate to the Progress Tracking tab and add a new Processing ID number by scrolling down to the last entry and then filling in a new row of fields according to the column name.
 * 4.  Always add date samples are returned to collaborators by filling in "sample return date" and supplying any tracking information or email correspondence.
 
 #### d. Progress Tracker and Results
 
-Progress Tracker and Rrsults tabs are used to view the current step of each project and samples. To make a new entry in Progress Tracker:
+Progress Tracker and Results tabs are used to view the current step of each project and samples. To make a new entry in Progress Tracker:
 *	Enter info into fields (Processing ID, Project Name, Processed by, Date of Experiment, Processing Type, Current Step in Pipeline, Protocol log (link to Benchling experiment entry), Notes of changes, Mapping File, and Current Freezer Location)
 * A new entry should be created with every new batch of samples processed* 
 
 ##### Keeping up-to-date:
-* Update Current Step in Pipeline, add another additional links for Protocol Log, add Mapping file when necessary, and New Freezer Location when moved around from -80 to -20. 
+* Update current step in pipeline, add additional links for Protocol Log, add Mapping file when necessary, and New Freezer Location when moved around from -80 to -20. 
 * Results will automatically populate. This tab will mainly be used by Katie and Sue to view current project progress. 
 
 ### 2. Benchling <a name="benchling"></a>:
 
 #### a.	Description and Intro
 
-Benchling is used as an electronic lab notebook. Here you will input your experiment recordings according to specific projects and steps within the pipeline
+Benchling is used as an electronic lab notebook. Here you will input your experiment notes according to the specific project and the assigned processing ID
 
-Lynch Lab Projects breaks into a variety of files for each project. You can navigate through the directories according to: the project, experiment type, and personal entries + Sample type.  Personal entries will house the specific electronic lab notebook for your experiments performed. 
+Lynch Lab Projects page breaks into a variety of folders for each project. You can navigate through the directories according to: Lynch Lab Projects, Project folder, Processing IDs folder, and specific ID # folder for your experiment log.  Processing ID folder will house the specific electronic lab notebook for your experiments performed. 
 
 #### b.	Visual Diagram
 
-<img src="docs/assets/Benchling diagram.png">
+<img src="">
 
 #### c.	Account Navigation
 
@@ -104,11 +104,10 @@ Lynch Lab Projects breaks into a variety of files for each project. You can navi
 
 #### d.	Entries and Use 
 
-*	Navigate through Projects to specific Experiment type and Personal Entries/Sample Type. 
-*	Create a new blank entry for yourself in the Personal Entries directory by clicking the plus sign on the upper left side of the page. Click on entry and then “Entry From Template”.
-*	Select the correct template for your experiment type (example: 16s experiments)
-*	Name the entry “Name, experiment type, sample type” (example: Claire gDNA extraction from Mother Stool)
-*	Start inputting your protocol by uploading your protocol doc to “add protocol” tab
+*	Navigate through Projects to Processing IDs and then to the specific processing ID # folder. 
+*	Create a new blank entry for yourself in the Processing IDs directory by clicking the plus sign on the upper left side of the page. Click on entry, then “Entry From Template”
+*	Name the entry by the assigned processing ID number listed in Airtable (example as WISC: ID1)
+*	Start inputting your protocol by uploading your protocol documents to “add protocol” tab
 *	Fill in the “Notes” tab with your experiment notes and information necessary. It is very important to you keep the log of specific samples used by filling in the template’s fields. 
 *	This can now only be edited by you but can be viewed by any user in our group.
 
@@ -163,5 +162,5 @@ If you need to print sample vial labels for any reason you will need to:
 4.	Click the orange “+Add” button and select “add rack” or “add box”
 5.	Input the info required and make sure to label by: Project, Sample Type, Experiment Step, Date, and your initials!!
 
-##### Last edited by Claire S 09/19/21
+##### Last edited by Claire S 10/25/21
 
