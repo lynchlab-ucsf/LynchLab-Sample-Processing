@@ -96,7 +96,7 @@ Lynch Lab Projects page breaks into a variety of folders for each project. You c
 
 #### b.	Visual Diagram
 
-<img src="">
+<img src="docs/assets/Benchling diagram.png">
 
 #### c.	Account Navigation
 
